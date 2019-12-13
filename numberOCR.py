@@ -330,8 +330,3 @@ def detectNumber(path):
     for num in detectedObjects:
         number = number + str(num[1])
     return number
-
-
-if __name__ == "__main__":
-    res = detectNumber("./0.jpg")
-    print(res)
