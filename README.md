@@ -25,7 +25,7 @@ Any of this libraries can be installed by typing:
 4. Compile Yolo library from [this repository](https://github.com/AlexeyAB/darknet) using ways, provided in ReadMe.
 5. Put **yolo_cpp_dll.dll** or **libdarknet.so** near .py files.
 6. Find files **opencv_world347.dll** and **opencv_ffmpeg347_64.dll** in **C:\opencv_3.0\opencv\build\x64\vc14\bin** and put it into the same folder.
-8. Edit bot.py file, line 54 by adding Telegram token.
+8. Edit bot.py file, [line 54](https://github.com/VladislavLV/CaptcheBot/blob/c276dd9bb532bdb955045adc68f135cf3df2ae33/bot.py#L54) by adding Telegram token.
 9. Run project from command promt (for Windows) or terminal (for Linux) by using command python bot.py.
 
 ### Requirements for image:
