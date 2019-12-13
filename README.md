@@ -34,5 +34,4 @@ Text OCR doesn't have such requirements, but for best detection performance it's
 
 ### Demonstration
 
-![](https://sun9-64.userapi.com/c857124/v857124869/69078/imDkDjAUoEI.jpg)
-![](https://sun9-16.userapi.com/c857124/v857124869/69068/zSppIqgJ4wg.jpg)
+![](https://cdn.discordapp.com/attachments/600741067041669122/655059580711075853/unknown.png)
